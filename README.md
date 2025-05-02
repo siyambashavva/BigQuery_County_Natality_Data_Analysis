@@ -1,2 +1,2 @@
-# BigQuery_County_Natality_Data_Analysis
+# BigQuery County Natality Data Analysis
 BigQery public dataset - County Natality Data Analysis
